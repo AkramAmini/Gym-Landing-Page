@@ -15,7 +15,7 @@ A modern, fully responsive landing page for a fitness club. This project focuses
 
 ##  Preview
 >  **Tip:** Replace the link below with a screenshot of your project or your live Netlify URL!
-[Live Demo Link](YOUR_NETLIFY_URL_HERE)
+[Live Demo Link](nimble-semolina-03eded.netlify.app/)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9263399a-3131-4aba-a465-6e1ff065abd7" width="600" alt="Project Preview" />
